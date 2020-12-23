@@ -1,0 +1,8 @@
+name: LC-Perl
+version: 1.0
+author: Extasio15
+description: LifecraftPerl
+main: fr.extasio.main.Main
+prefix: LifecraftPerl
+
+commands:
